@@ -1,0 +1,14 @@
+{
+  "name": "damn-u-dave",
+  "subdomain": "brianleroux.damn-u-dave",
+  "scripts": {
+    "start": "app.js"
+  },
+  "version": "0.0.0-1",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "dependencies": {
+    "express": "3.0.x"
+  }
+}
